@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn something new.
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on programmers
-- 📫 How to reach me ...
+- 📫 How to reach me noman.bhuyan@gmail.com
 
 <!---
 nomanbhuiyan53/nomanbhuiyan53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
